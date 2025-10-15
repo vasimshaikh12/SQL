@@ -1,4 +1,4 @@
-# sql-Project
+# SQL-Project
 
 ## Overview
 This repo contains a SQL Projectwith schema, sample data, and 50 practice queries.
@@ -17,3 +17,4 @@ Tables: `Students`, `Teachers`, `Courses`, `Enrollments`.
 ## Notes
 - SQL dialect: MySQL (adjust types/auto_increment if using another RDBMS).
 - Author: Vasim
+
